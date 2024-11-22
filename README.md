@@ -12,12 +12,12 @@ This project is a simple currency converter built using HTML, CSS, and JavaScrip
 * CSS: For styling the web page.
 * JavaScript: For functionality and interacting with the exchange rate API.
 
-## Setup and Installation
- 1.Clone the repository:
+# Setup and Installation
+ Clone the repository:
   sh
   git clone https://github.com/rohitmaurya2545/currency-converter.git
   cd currency-converter
- 2.Open the project: 
+ Open the project: 
   Open index.html in your preferred web browser.
 
 # Usage
